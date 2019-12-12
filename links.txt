@@ -1,0 +1,23 @@
+React lessons:
+============================
+11th Nov 2019
+-------------
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://yoksel.github.io/flex-cheatsheet/
+
+
+Install node.js LTS from --> https://nodejs.org/en/download/
+
+Install a fresh React App
+1. From command prompt --> npx create-react-app my-app
+2. got to mp-app folder --> cd my-app
+3. start running the sample app --> npm start
+
+observe sample code from Azmeer
+1. unzip the file
+2. got to mp-app folder --> cd my-app
+3. install dependants --> npm install
+4. start running the sample app --> npm start
+
+
