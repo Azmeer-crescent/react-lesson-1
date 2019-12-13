@@ -4,6 +4,16 @@ A complete tutorial on React functional components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to run this code repo
+
+1. Clone from GitHub
+
+`git clone https://github.com/Azmeer-crescent/react-lesson-1.git`
+
+2. Change to your cloned folder --> `cd react-lesson-1`
+3. Install dependencies --> `npm install`
+4. Run the code --> `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
