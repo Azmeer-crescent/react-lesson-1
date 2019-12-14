@@ -1,6 +1,6 @@
 # Code from Azmeer
 
-A complete tutorial on React functional components.
+A simplified tutorial on React.JS functional components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
